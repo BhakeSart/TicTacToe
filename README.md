@@ -16,5 +16,10 @@ This being a game it is advised to run the program manually on a terminal rather
 ```
 gcc TicTacToe.c -o run
 ```
+- After the step given below it will create an executable file that is run.exe.
+- Now paste the command below and you're good to go.
+```
+run.exe
+```
 
 
