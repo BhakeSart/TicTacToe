@@ -13,7 +13,8 @@ This being a game it is advised to run the program manually on a terminal rather
 - Download or Clone the repo.
 - After downloading/cloning open the directory where the project has been downloaded.
 - Open the cmd in that paricular folder and paste the command given below.
-"""
-gcc
+```
+gcc TicTacToe.c -o run
+```
 
 
